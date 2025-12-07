@@ -1,7 +1,0 @@
-train: images/train
-val: images/val
-names:
-  0: 1_gwang
-  1: 3_gwang
-  2: 8_gwang
-path: ./hwatu_dataset
